@@ -16,9 +16,6 @@
 - [Execution & Testing](#-execution--testing)
 - [Performance Analysis](#-performance-analysis)
 - [Author](#-author)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ## 📌 Project Overview
 
 This project implements a Software Defined Networking (SDN) application that manages **ARP (Address Resolution Protocol)** and optimizes network traffic through **Flow Rule Installation**.
